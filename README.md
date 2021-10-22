@@ -1,3 +1,21 @@
+# LAB 01 - Architecture Design
+## Tasks
+Vẽ Sequence diagrams
+
+Vẽ Communications diagrams
+
+Vẽ Class diagrams
+
+## Contributions
+Người thực hiện: Nguyễn Tiến Hậu
+
+## Revisions
+3 Sequence diagrams: Pay Order, Place Order, Place Rush Order
+
+3 Communications diagrams: Pay Order, Place Order, Place Rush Order
+
+4 Class diagrams: Combination, Pay Order, Place Order, Place Rush Order
+
 # LAB 00 - Requirement Analysis
 ## Tasks
 Vẽ Activity diagrams
