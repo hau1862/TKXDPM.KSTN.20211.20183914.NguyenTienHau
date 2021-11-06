@@ -1,3 +1,21 @@
+# LAB 02 - Architecture Design
+## Tasks
+Thiết kế và các User Interface
+
+Thiết kế subsystem InterbankInterface
+
+## Contributions
+Người thực hiện: Nguyễn Tiến Hậu
+
+## Revisions
+3 Sequence diagrams: Pay Order, refund, get balance
+
+1 Class diagrams
+
+1 Screen Transition
+
+1 File Screen Specification
+
 # LAB 01 - Architecture Design
 ## Tasks
 Vẽ Sequence diagrams
