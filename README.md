@@ -1,3 +1,27 @@
+# LAB 03 - Class Design And Data Modeling
+## Tasks
+Thiết kế và các Lớp
+
+Thiết kế subsystem InterbankInterface
+
+Mô hình hóa dữ liệu
+
+## Contributions
+Người thực hiện: Nguyễn Tiến Hậu
+
+## Revisions
+3 Class diagrams
+
+1 Class Specification: PlaceOrderController, PaymentController, PlaceRushOrderController
+
+1 Database Script
+
+1 Database Logical Data Modeling
+
+1 Physical Data Modeling
+
+1 ER Diagram
+
 # LAB 02 - Architecture Design
 ## Tasks
 Thiết kế và các User Interface
