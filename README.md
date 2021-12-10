@@ -1,3 +1,25 @@
+# LAB 04 - Unit Test And Refactoring
+## Tasks
+Thiết kế các test case
+
+Viết javadoc
+
+Mô hình hóa dữ liệu
+
+## Contributions
+Người thực hiện: Nguyễn Tiến Hậu
+
+## Revisions
+1 file PlaceRushOrderController
+
+1 File PlaceOrderController sau khi được thêm validate
+
+1 File Java API sau khi được thêm javadoc
+
+3 File Java Unit Test
+
+1 ER Diagram
+
 # LAB 03 - Class Design And Data Modeling
 ## Tasks
 Thiết kế và các Lớp
