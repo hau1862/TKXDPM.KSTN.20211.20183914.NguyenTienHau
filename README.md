@@ -1,3 +1,27 @@
+# LAB 05
+## Task
+Review mức độ Cohesion và Coupling của module PlaceRushOrder
+
+Review design và sửa để đảm bảo nguyên lý SOLID
+
+## Contributions
+Người thực hiện: Nguyễn Tiến Hậu
+
+## Revisions
+1 file PlaceRushOrderController
+
+1 File PlaceOrderController
+
+1 File CalcShippingFee
+
+1 File CalcOrder
+
+1 File CalcRushOrder
+
+1 File Design Concept
+
+1 File Design Principle
+
 # LAB 04 - Unit Test And Refactoring
 ## Tasks
 Thiết kế các test case
